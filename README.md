@@ -12,8 +12,6 @@ the reason I started programmming in the first place.
 
 - 🔭 I’m currently playing around with NextJS [here](https://github.com/jimbarrett/bible-verse-lookup).
 
-As of Sept. 2023 I'm currently on the market and looking for a new position! Check out my [resume](https://jimbarrett.github.io/resume/) 
-and feel free to reach out if you want to talk!
 
 
 
