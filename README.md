@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Jim Barrett and I've been a full stack software engineer for over 12 years.
+My name is Jim Barrett and I've been a full stack software engineer for over 15 years.
 
 I got my start building web sites in the days of PHP 4...back when you might have a Flash video player 
 embedded in your page and you had to code everything to work with Internet Explorer 6.
